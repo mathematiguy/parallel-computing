@@ -1,2 +1,2 @@
 # parallel-computing
-Explorations in parallel computing (using Python)
+Recent work in parallel computing (using Python)
